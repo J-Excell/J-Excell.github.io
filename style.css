@@ -17,9 +17,18 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 
 p {
 	font-size: 1em;
+	font-family:'Rokkitt';
 	line-height: 1.4em;
 	margin-bottom: 20px;
 	color: #444;
+}
+
+ol {
+	font-family: 'Rokkitt';
+}
+
+li {
+	font-family: 'Rokkitt';
 }
 
 #cv {
