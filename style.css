@@ -129,6 +129,7 @@ section:last-child {
 .sectionContent {
 	float: right;
 	width: 72.5%;
+	line-height: 1.4em;
 }
 
 .sectionTitle h1 {
